@@ -1,22 +1,44 @@
 # GG BANK
 
-Sistema de registro e gestão de contas bancárias desenvolvido em C++ para a Etapa 1 da disciplina de Programação de Computadores I.
+Projeto acadêmico desenvolvido em C++ para a disciplina de Análise e Desenvolvimento de Sistemas (ADS).
 
-## Funcionalidades
+O GG BANK é um sistema bancário desenvolvido por etapas, com o objetivo de aplicar conceitos de programação, estruturas de dados e lógica de programação.
 
-- Cadastrar contas
-- Consultar contas
-- Verificar saldo
-- Alterar o tipo da conta
-- Ativar e desativar contas
-- Cadastro de até 5 contas
+## Etapa 1 – Gerenciamento de contas
 
-## Tipos de conta
+Funcionalidades implementadas:
+- Cadastro de contas bancárias.
+- Consulta de contas.
+- Consulta de saldo.
+- Alteração do tipo de conta.
+- Ativação e desativação de contas.
 
-- Conta Corrente
-- Conta Poupança
+## Etapa 2 – Movimentações bancárias
 
-## Linguagem utilizada
+Funcionalidades implementadas:
+- Cadastro de até 100 contas.
+- Listagem de contas cadastradas.
+- Consulta de dados bancários.
+- Realização de depósitos.
+- Realização de saques com verificação de saldo.
+- Transferências entre contas.
+- Registro de movimentações bancárias.
+- Consulta de extrato por conta.
 
-C++
+O sistema utiliza vetores para armazenar os dados das contas e o histórico de movimentações durante a execução.
 
+## Tecnologias utilizadas
+
+- C++
+- Biblioteca iostream
+- Biblioteca string
+- Online GDB
+
+## Estrutura do projeto
+
+- `Etapa-1/main.cpp`: código-fonte da primeira etapa.
+- `Etapa-2/main.cpp`: código-fonte da segunda etapa.
+
+## Desenvolvedor
+
+Projeto acadêmico desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas.
