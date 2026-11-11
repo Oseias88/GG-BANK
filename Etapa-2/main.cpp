@@ -135,8 +135,8 @@ bool numeroRepetido;
         // i++ faz a posicao avançar uma por vez
         
       
-      cout << "numero da conta: " << nomeCliente[i] << endl;
-      cout << "Titular: " << nomeCliente[í] << endl;
+      cout << "numero da conta: " << numeroConta[i] << endl;
+      cout << "Titular: " << nomeCliente[i] << endl;
       cout << "CPF: " << cpf[i] << endl;
       
         
